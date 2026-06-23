@@ -1,10 +1,56 @@
-- 👋 Hi, I’m @Hamedfayas
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me to become a software developer and ai 
+# Hi, I'm Hamed Fayas 👋
 
-<!---
-Hamedfayas/Hamedfayas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BCA Student (AI, ML, Robotics & IoT)
+
+📊 Data Analyst & Data science Enthusiast
+
+💻 Passionate about Python, SQL, Power BI, and Data Science
+
+🌱 Currently learning Data Analytics, Machine Learning, and Database Management
+
+---
+
+## 🚀 Skills
+
+* Python
+* SQL (MySQL)
+* Power BI
+* Machine Learning
+* Data Analysis
+* Pandas
+* NumPy
+* Git & GitHub
+
+---
+
+## 📂 Projects
+
+### 📒 Address Book Management System
+
+* Built using Python and MySQL
+* Features:
+
+  * Add Contact
+  * View Contacts
+  * Search Contact
+  * Update Contact
+  * Delete Contact
+
+
+---
+
+## 🎯 Current Goals
+
+* Improve Python Programming Skills
+* Master SQL for Data Analytics
+* Build End-to-End Data Analytics Projects
+* Learn Advanced Machine Learning
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Hamedfayas
+
+
+⭐ Thanks for visiting my profile!

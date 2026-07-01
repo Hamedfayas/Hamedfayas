@@ -50,7 +50,7 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/Hamedfayas
+* Linkedin: https://www.linkedin.com/in/hamedfayas
 
 
 ⭐ Thanks for visiting my profile!
